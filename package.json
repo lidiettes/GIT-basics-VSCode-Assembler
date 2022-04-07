@@ -29,16 +29,16 @@
   "author": "Daniel Lucaci <dani@assemblerschool.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^27.4.1",
     "git-tools": "^0.3.0",
-    "jest": "^25.5.2",
-    "simple-git": "^2.2.0"
+    "jest": "^27.5.1",
+    "simple-git": "^3.5.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "babel-jest": "^25.5.1",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.1"
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.7"
   }
 }
