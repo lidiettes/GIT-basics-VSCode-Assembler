@@ -2,6 +2,8 @@
 
 # Assembler Institute: Git basics - Console exercises <!-- omit in toc -->
 
+<img src="https://raw.githubusercontent.com/assembler-institute/git-basics-1/main/utils/git_logo.png" width="500px"></img>
+
 With these exercises you will learn how to use git in your console.
 
 ## Introduction
